@@ -1,9 +1,9 @@
 ## This is the header
 
-Here ist he regular text.
+Here is the regular text.
 
 *bullet 1
 *bullet 2
 
 [Link to Google] (Http://www.google.com)
-More text. 
+More text to test out edits. 
